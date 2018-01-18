@@ -1,0 +1,27 @@
+C:\Users\METİN\Documents\Visual Studio 2015\Projects\Nesne_Odev\Nesne_Odev\bin\Debug\Nesne_Odev.exe.config
+C:\Users\METİN\Documents\Visual Studio 2015\Projects\Nesne_Odev\Nesne_Odev\bin\Debug\Nesne_Odev.exe
+C:\Users\METİN\Documents\Visual Studio 2015\Projects\Nesne_Odev\Nesne_Odev\bin\Debug\Nesne_Odev.pdb
+C:\Users\METİN\Documents\Visual Studio 2015\Projects\Nesne_Odev\Nesne_Odev\obj\Debug\Nesne_Odev.Form1.resources
+C:\Users\METİN\Documents\Visual Studio 2015\Projects\Nesne_Odev\Nesne_Odev\obj\Debug\Nesne_Odev.Properties.Resources.resources
+C:\Users\METİN\Documents\Visual Studio 2015\Projects\Nesne_Odev\Nesne_Odev\obj\Debug\Nesne_Odev.csproj.GenerateResource.Cache
+C:\Users\METİN\Documents\Visual Studio 2015\Projects\Nesne_Odev\Nesne_Odev\obj\Debug\Nesne_Odev.exe
+C:\Users\METİN\Documents\Visual Studio 2015\Projects\Nesne_Odev\Nesne_Odev\obj\Debug\Nesne_Odev.pdb
+C:\Users\METİN\Documents\Visual Studio 2015\Projects\Nesne_Odev\Nesne_Odev\obj\Debug\Nesne_Odev.csprojResolveAssemblyReference.cache
+C:\Users\METİN\Desktop\proje\Nesne_Odev_v2\Nesne_Odev\bin\Debug\Nesne_Odev.exe.config
+C:\Users\METİN\Desktop\proje\Nesne_Odev_v2\Nesne_Odev\obj\Debug\Nesne_Odev.exe
+C:\Users\METİN\Desktop\proje\Nesne_Odev_v2\Nesne_Odev\obj\Debug\Nesne_Odev.pdb
+C:\Users\METİN\Desktop\proje\Nesne_Odev_v2\Nesne_Odev\bin\Debug\Nesne_Odev.exe
+C:\Users\METİN\Desktop\proje\Nesne_Odev_v2\Nesne_Odev\bin\Debug\Nesne_Odev.pdb
+C:\Users\METİN\Desktop\proje\Nesne_Odev_v2\Nesne_Odev\obj\Debug\Nesne_Odev.csprojResolveAssemblyReference.cache
+C:\Users\METİN\Desktop\proje\Nesne_Odev_v2\Nesne_Odev\obj\Debug\Nesne_Odev.Form1.resources
+C:\Users\METİN\Desktop\proje\Nesne_Odev_v2\Nesne_Odev\obj\Debug\Nesne_Odev.Properties.Resources.resources
+C:\Users\METİN\Desktop\proje\Nesne_Odev_v2\Nesne_Odev\obj\Debug\Nesne_Odev.csproj.GenerateResource.Cache
+C:\Users\METİN\Desktop\git\Nesne_Odev_v2\Nesne_Odev\bin\Debug\Nesne_Odev.exe.config
+C:\Users\METİN\Desktop\git\Nesne_Odev_v2\Nesne_Odev\obj\Debug\Nesne_Odev.exe
+C:\Users\METİN\Desktop\git\Nesne_Odev_v2\Nesne_Odev\obj\Debug\Nesne_Odev.pdb
+C:\Users\METİN\Desktop\git\Nesne_Odev_v2\Nesne_Odev\bin\Debug\Nesne_Odev.exe
+C:\Users\METİN\Desktop\git\Nesne_Odev_v2\Nesne_Odev\bin\Debug\Nesne_Odev.pdb
+C:\Users\METİN\Desktop\git\Nesne_Odev_v2\Nesne_Odev\obj\Debug\Nesne_Odev.csprojResolveAssemblyReference.cache
+C:\Users\METİN\Desktop\git\Nesne_Odev_v2\Nesne_Odev\obj\Debug\Nesne_Odev.Form1.resources
+C:\Users\METİN\Desktop\git\Nesne_Odev_v2\Nesne_Odev\obj\Debug\Nesne_Odev.Properties.Resources.resources
+C:\Users\METİN\Desktop\git\Nesne_Odev_v2\Nesne_Odev\obj\Debug\Nesne_Odev.csproj.GenerateResource.Cache
